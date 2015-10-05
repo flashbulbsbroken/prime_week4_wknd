@@ -32,7 +32,7 @@
 }
 
 .addTaskButton {
-    margin: 0 auto 10px;
+    margin: 0 auto 25px;
     display: block;
 
     -webkit-appearance: none;
@@ -47,7 +47,7 @@
 }
 
 .dueDate {
-    margin: 5px auto;
+    margin: 5px auto 10px;
     display: block;
 }
 
